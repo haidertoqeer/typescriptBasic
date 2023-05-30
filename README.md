@@ -2,7 +2,7 @@
 
 This repository contains basic TypeScript code snippets and explanations to help beginners understand the fundamental concepts of the language.
 
-## Getting Started
+## Getting Started -
 
 To get started with TypeScript, you should have Node.js and npm (Node Package Manager) installed on your system. You can download and install them from [https://nodejs.org/en/](https://nodejs.org/en/).
 
